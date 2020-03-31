@@ -17,7 +17,6 @@ public class opdracht7 extends Applet {
 
         // Het vierkant
         g.setColor(Color.white);
-
         g.fillRect(250, 250, 250, 250);
         // De stippen
         g.setColor(Color.black);
